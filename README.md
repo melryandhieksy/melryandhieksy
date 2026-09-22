@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou a Aurora! 👋
+# Oi, eu sou a Melryan! 👋
 
 ### Estudante de Desenvolvimento de Sistemas
 
